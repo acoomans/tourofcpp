@@ -1,0 +1,1 @@
+Quick self-practice of C++11 based on the "A Tour of C++" book.
